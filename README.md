@@ -2,6 +2,9 @@
 
 A Retrieval-Augmented Generation (RAG) application that lets users upload PDF documents, ask questions about their contents, and receive grounded answers with cited source pages.
 
+##🚀 Live Demo
+[Try ChattyVault Live](https://chattyvault-pdf-2nx3vyrswtw3kp4mbkw6h8.streamlit.app/)
+
 ## 🚀 Features
 
 - Upload PDF documents
